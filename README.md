@@ -14,3 +14,12 @@ https://www.imagemagick.org/
 ## To-Do
 
 Interface
+
+## Configuration
+
+	final static String mainFolder   		     = "C:\\testing\\";
+	final static String identifierFilename   = "identifier.conf";
+	final static String listFilename 		     = "list.conf";
+	final static String activityLogFilename  = "activity.log";
+	final static String buildPathLogFilename = "build-path.log";
+	final static String nameLogFilename 	   = "name.log";
