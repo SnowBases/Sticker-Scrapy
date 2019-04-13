@@ -18,9 +18,13 @@ Interface
 ## Configuration
 
 ```
+
+# Where to save the stickers
 final static String mainFolder = "C:\\testing\\";
+
+# Identify the current folder name by number
+# Ignore
 final static String identifierFilename = "identifier.conf";
+
+# Add LINE stickers path here (only LINE Stickers) 
 final static String listFilename = "list.conf";
-final static String activityLogFilename = "activity.log";
-final static String buildPathLogFilename = "build-path.log";
-final static String nameLogFilename = "name.log"; ```
